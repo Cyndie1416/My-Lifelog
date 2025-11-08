@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Lifelog</string>
+    <string name="nav_journal">Journal</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_settings">Settings</string>
+    <string name="empty_notes_title">Start your story</string>
+    <string name="empty_notes_message">Capture thoughts, photos, and stickers to build your lifelog.</string>
+    <string name="add_note">Add note</string>
+    <string name="add_goal">Add goal</string>
+    <string name="mark_complete">Mark complete</string>
+    <string name="theme_system">Use system theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="settings_theme_title">Appearance</string>
+    <string name="settings_theme_description">Choose how the app looks</string>
+    <string name="settings_sync_title">Sync</string>
+    <string name="settings_sync_description">Connect a cloud provider to back up your lifelog.</string>
+    <string name="settings_sync_action">Manage cloud connections</string>
+    <string name="last_synced">Last synced %1$s</string>
+    <string name="sync_now">Sync now</string>
+    <string name="syncing">Syncing…</string>
+    <string name="offline_mode">Offline mode active</string>
+</resources>
+
